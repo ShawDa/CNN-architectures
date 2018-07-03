@@ -1,2 +1,2 @@
 # CNN-architectures
-cnn
+Some examples about CNN.

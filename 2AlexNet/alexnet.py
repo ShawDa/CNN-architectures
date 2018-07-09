@@ -13,7 +13,7 @@ class AlexNet(object):
 
     def alexnet(self):
         model = Sequential()
-        # 224 padding=same
+        # padding=same is optional
         model.add(Conv2D(96,(11,11),strides=(4,4),input_shape=(self.height, self.width, 3),padding='valid',activation='relu'))
         model.add(MaxPooling2D(pool_size=(3,3),strides=(2,2)))
 

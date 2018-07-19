@@ -1,13 +1,9 @@
 # DenseNet
 
 ## Architecture
-![resnet.png](resnet.png)
+![densenet_archi.JPG](densenet_archi.JPG)
 
-![resnet18_0.png](resnet18_0.png)
-
-![resnet18_1.png](resnet18_1.png)
-
-![resnet18_2.png](resnet18_2.png)
+![densenet.jpg](densenet.jpg)
 
 ## Reference
 https://github.com/titu1994/DenseNet
